@@ -51,4 +51,10 @@ THEN I should have proper build scripts for a webpack application
 
 ## Deployed Link
 
+This application is deployed here: https://text-editor-pwa-aijj.onrender.com
+
+## Repo Location
+
+This repo is located here: https://github.com/Joyce77777777/Text-Editor-PWA
+
 
